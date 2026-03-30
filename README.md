@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn"/>
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=7C9EFF&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Alejo+%F0%9F%91%8B;Systems+Engineering+Student;Backend+%26+Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=7C9EFF&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Alejo+%F0%9F%91%8B;Systems+Engineering+Student;Backend+%26+Cybersecurity" />
 </h1>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=2000&color=9B8DC4&center=true&vCenter=true&width=500&height=30&lines=Building+strong+foundations+in+systems%2C+code+%26+security." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=2000&color=9B8DC4&center=true&vCenter=true&width=600&height=30&lines=Building+strong+foundations+in+systems%2C+code+%26+security." />
 </p>
 
 <p>
@@ -40,12 +40,13 @@ goal        : Build solid foundations in programming, systems & security
 - 🐧 Daily driver: **Arch Linux**  
 - 💻 Currently sharpening my skills in **C++** and **Python**  
 - 🔐 Interested in **Backend Development** and **Cybersecurity**  
-- 📚 Studying **Data Structures** and **Operating Systems**  
+- 📚 Studying **Data Structures** and **Operating Systems**
+
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleidoscope425&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C9EFF&text_color=cdd6f4"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaleidoscope425&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -113,19 +114,13 @@ Future project example:
 `coming-soon`
 
 Future project example:
-- Backend mini API
-- Linux notes or security lab
+- Backend mini API  
+- Linux notes or security lab  
 
 </td>
 
 </tr>
 </table>
-
-<!--
-Future format example:
-
-[project-name](repo-link) — short description
--->
 
 ---
 
@@ -133,9 +128,9 @@ Future format example:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaleidoscope425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C9EFF&icon_color=9B8DC4&text_color=cdd6f4"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaleidoscope425&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleidoscope425&theme=tokyonight&hide_border=true&background=0d1117&stroke=302b63&ring=7C9EFF&fire=9B8DC4&currStreakLabel=7C9EFF"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleidoscope425&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -144,8 +139,17 @@ Future format example:
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/kaleidoscope425/kaleidoscope425/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+<img src="https://raw.githubusercontent.com/kaleidoscope425/kaleidoscope425/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
+---
+
+##  Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleidoscope425&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ## `$ cat contact.txt`
@@ -165,4 +169,5 @@ Future format example:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer"/>
 
 </div>
+
 <!--Goodbye friend. -->
